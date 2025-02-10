@@ -5,6 +5,10 @@
 
 Cinemachine is a powerful **camera system for Unity** that enables dynamic and procedural camera behaviors. It simplifies camera control by allowing developers to set up complex camera movements, transitions, and tracking without writing extensive code. Cinemachine is widely used for creating **cinematic shots**, **gameplay cameras**, and **cutscenes** in Unity.
 
+🔗 Video Trailer
+
+https://youtu.be/rd4WHgR3Itg?si=BCE2XXxNba_vkKbG
+
 ---
 
 ## 🎥 Key Features
